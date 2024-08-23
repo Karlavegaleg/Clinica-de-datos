@@ -1,9 +1,13 @@
 ---
 title: "CLINICA-DE-DATOS"
-author: 
+author: "VICTORIA DONATO-MILAGROS SOAJE"
 date: "2024-08-23"
 output: html_document
 ---
 
 HOla
-nlckalfaslCNLF
+
+```{r}
+library(ggplot2)
+```
+
