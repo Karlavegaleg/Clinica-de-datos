@@ -1,6 +1,6 @@
 ---
 title: "CLINICA-DE-DATOS"
-author: "VICTORIA DONATO-MILAGROS SOAJE"
+author: 
 date: "2024-08-23"
 output: html_document
 ---
